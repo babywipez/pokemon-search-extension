@@ -5,6 +5,8 @@ A successful search will show you an image of the Pokemon, its
 dynamically colored typing, and its stats, including its Base
 Stat Total (BST).
 
+![screenshot](screenshots/screenshot1.png)
+
 This application is styled in such a way that it can easily be
 added as a Chrome extension and used quite intuitively.
 
